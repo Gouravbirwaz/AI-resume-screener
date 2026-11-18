@@ -1,0 +1,27 @@
+Rohan Mehta
+Email: rohan.mehta.web@example.com | Phone: +91-9988776655 | Pune, India
+GitHub: github.com/rohan-web | Portfolio: rohanmehta.tech
+
+PROFESSIONAL SUMMARY:
+Dynamic Full-Stack Web Developer with 3 years of hands-on experience designing and delivering high-performance responsive web applications. Expert in React.js, Next.js, Node.js, and TypeScript with a solid track record of optimizing page load times and integrating RESTful APIs.
+
+CORE TECHNICAL SKILLS:
+- Front-End: React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux Toolkit
+- Back-End & Databases: Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL
+- Tools & DevOps: Git, GitHub, Docker, Jest, Vite, Vercel, AWS S3, Postman
+- Practices: Responsive Design, Agile/Scrum, CI/CD, Web Accessibility (WCAG)
+
+WORK EXPERIENCE:
+Frontend Web Developer | PixelWave Media, Pune (March 2022 – Present)
+- Engineered responsive user interfaces for SaaS web applications using React.js and Tailwind CSS, serving 100K+ monthly active users.
+- Migrated legacy single-page application to Next.js 14 with server-side rendering (SSR), cutting initial page load time by 42%.
+- Integrated complex REST and GraphQL endpoints with client-side caching using React Query and Redux Toolkit.
+- Authored reusable UI component library maintaining 90%+ unit test coverage using Jest and React Testing Library.
+
+Junior Web Developer | CodeCrafters, Mumbai (July 2020 – Feb 2022)
+- Built interactive landing pages and customer dashboards using HTML5, CSS3, and JavaScript.
+- Collaborated with UX/UI designers to translate Figma wireframes into pixel-perfect web interfaces.
+- Developed backend CRUD APIs using Express.js and MongoDB.
+
+EDUCATION:
+- B.Sc. in Computer Science | Mumbai University (2017 – 2020)

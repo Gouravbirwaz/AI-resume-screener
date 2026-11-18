@@ -1,0 +1,30 @@
+Priya Patel
+Email: priya.patel.ml@example.com | Phone: +91-9123456789 | Mumbai, India
+Portfolio: priyapatel.dev | GitHub: github.com/priya-ml
+
+PROFESSIONAL SUMMARY:
+Passionate Junior Machine Learning Engineer with 1.5 years of experience developing machine learning models and computer vision pipelines. Adept at data preprocessing, feature engineering, and training convolutional neural networks. Eager to expand expertise into advanced Natural Language Processing and transformer architectures.
+
+CORE TECHNICAL SKILLS:
+- Languages: Python, C++, SQL
+- Machine Learning & Deep Learning: Scikit-Learn, TensorFlow, Keras, OpenCV, basic PyTorch, Pandas, NumPy, Matplotlib
+- Tools & Cloud: Git, GitHub, Linux, Jupyter Notebook, Google Colab, basic Docker, Streamlit
+- Domains: Computer Vision, Supervised Learning, Exploratory Data Analysis, Classification, Regression
+
+WORK EXPERIENCE:
+Associate Machine Learning Engineer | DataVision Technologies, Mumbai (Jan 2023 – Present)
+- Trained custom YOLOv8 and ResNet object detection models for defect identification in industrial manufacturing with 89% precision.
+- Preprocessed and cleaned multi-modal tabular and image datasets containing 200,000+ entries using Python and Pandas.
+- Built internal interactive model demonstration dashboards using Streamlit and Flask.
+- Collaborated with senior engineers on model quantization and evaluation metrics.
+
+Machine Learning Intern | TechNest Solutions, Pune (June 2022 – Dec 2022)
+- Implemented exploratory data analysis (EDA) and churn prediction baselines using Logistic Regression and Random Forest.
+- Wrote web scraping scripts using BeautifulSoup to collect training data from public web portals.
+
+ACADEMIC PROJECTS:
+- Automated Article Summarizer: Built extractive text summarization web app using TF-IDF and NLTK.
+- Handwritten Digit Recognizer: Implemented CNN model with 98.7% test accuracy on MNIST dataset.
+
+EDUCATION:
+- B.E. in Information Technology | Pune University (2018 – 2022) | CGPA: 8.7/10

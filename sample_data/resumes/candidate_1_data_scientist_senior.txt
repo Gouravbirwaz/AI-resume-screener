@@ -1,0 +1,32 @@
+Aarav Sharma
+Email: aarav.sharma.ai@example.com | Phone: +91-9876543210 | Bengaluru, India
+LinkedIn: linkedin.com/in/aarav-sharma-ds | GitHub: github.com/aarav-ds
+
+PROFESSIONAL SUMMARY:
+Results-driven Senior Data Scientist with 4+ years of industry experience specializing in Natural Language Processing (NLP), Deep Learning, and predictive modeling. Proven track record of developing transformer-based LLM pipelines, fine-tuning BERT models for text classification, and deploying containerized machine learning microservices into AWS production environments.
+
+CORE TECHNICAL SKILLS:
+- Languages & Core: Python (NumPy, Pandas, Scipy), SQL (PostgreSQL, BigQuery), R
+- Machine Learning & NLP: Scikit-Learn, PyTorch, TensorFlow, Hugging Face Transformers (BERT, RoBERTa, T5, Sentence-BERT), Spacy, NLTK, LLMs, LangChain
+- MLOps & Cloud: Docker, Kubernetes, MLflow, AWS (SageMaker, S3, EC2, Lambda), Git, CI/CD, FastAPI, Flask
+- Mathematics & Analytics: Statistical Analysis, Hypothesis Testing, Linear Algebra, Probability, A/B Testing
+
+PROFESSIONAL EXPERIENCE:
+Senior Data Scientist | InnovateAI Labs, Bengaluru (July 2022 – Present)
+- Architected and deployed an automated customer sentiment & intent classification pipeline using fine-tuned RoBERTa, boosting classification accuracy from 81% to 94.6%.
+- Built semantic resume screening tool using Sentence-BERT embeddings and FAISS index, reducing recruitment screening time by 65%.
+- Containerized NLP inference models using FastAPI and Docker, achieving sub-45ms response latencies on AWS SageMaker endpoints.
+- Conducted multivariate A/B testing on recommendation engine algorithms, resulting in a 14% lift in user engagement.
+
+Data Scientist | Analytics Pulse, Pune (August 2020 – June 2022)
+- Formulated churn prediction models using XGBoost and LightGBM, saving an estimated $220K in annual customer churn.
+- Engineered ETL data pipelines processing over 500GB daily transaction logs using Apache Spark and Pandas.
+- Mentored junior data science interns on transformer architectures and model evaluation metrics (Precision, Recall, ROC-AUC).
+
+EDUCATION:
+- M.Tech in Artificial Intelligence & Data Science | Indian Institute of Technology (IIT) (2018 – 2020)
+- B.Tech in Computer Science & Engineering | National Institute of Technology (NIT) (2014 – 2018)
+
+CERTIFICATIONS:
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (DeepLearning.AI)

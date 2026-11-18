@@ -1,0 +1,21 @@
+Job Title: Full-Stack Web Developer
+Company: CloudSphere Technologies
+Location: Hybrid / Pune, India
+
+Role Overview:
+We are looking for a skilled Full-Stack Developer to design and develop scalable web applications. You will be responsible for building responsive front-end user interfaces, developing robust backend APIs, and integrating database systems.
+
+Key Responsibilities:
+- Develop modern, responsive user interfaces using React.js, TypeScript, Next.js, HTML5, and CSS3/Tailwind.
+- Build resilient backend microservices and RESTful APIs using Node.js, Express, or Python (Django/FastAPI).
+- Design and optimize relational and NoSQL databases using PostgreSQL, MongoDB, and Redis.
+- Implement secure authentication and authorization protocols (OAuth2, JWT).
+- Write unit, integration, and end-to-end tests using Jest and Cypress.
+- Work within an Agile/Scrum team, utilizing Git, GitHub Actions, and Docker.
+
+Required Skills & Qualifications:
+- 2+ years of professional full-stack web development experience.
+- Strong knowledge of JavaScript (ES6+), TypeScript, React, and Node.js.
+- Solid experience with PostgreSQL, MongoDB, ORM tools (Prisma, TypeORM), and Redis caching.
+- Familiarity with Cloud platforms (AWS EC2, S3), Docker containers, and CI/CD pipelines.
+- Bachelor's degree in Computer Science, Information Technology, or equivalent practical experience.

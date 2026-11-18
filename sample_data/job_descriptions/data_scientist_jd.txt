@@ -1,0 +1,22 @@
+Job Title: Senior Data Scientist
+Company: NexaTech AI Solutions
+Location: Remote / Bengaluru, India
+
+Role Overview:
+We are seeking an experienced Senior Data Scientist with a solid background in Machine Learning, Deep Learning, Natural Language Processing (NLP), and big data analytics. The ideal candidate will design, build, and deploy production-grade AI models that drive customer intelligence and process automation.
+
+Key Responsibilities:
+- Design, train, and fine-tune machine learning and deep learning models (PyTorch, TensorFlow, Scikit-Learn).
+- Build end-to-end NLP pipelines using Transformer architectures (BERT, RoBERTa, Hugging Face, LLMs).
+- Clean, preprocess, and analyze large-scale structured and unstructured data using SQL, Pandas, and Spark.
+- Deploy models as RESTful APIs using FastAPI or Flask, containerized with Docker, on AWS/GCP cloud environments.
+- Conduct A/B testing, model monitoring, drift detection, and performance evaluation.
+- Collaborate with software engineers, product managers, and business stakeholders.
+
+Required Skills & Qualifications:
+- 3+ years of hands-on experience in Data Science, Machine Learning, and NLP.
+- Strong proficiency in Python, SQL, and data science libraries (NumPy, Pandas, Scikit-Learn, SciPy).
+- Expertise in Deep Learning frameworks: PyTorch, TensorFlow, Hugging Face Transformers.
+- Familiarity with MLOps practices: Docker, Git, CI/CD, MLflow, AWS (SageMaker, S3).
+- Strong mathematical foundations in statistics, linear algebra, probability, and optimization.
+- Bachelor's or Master's degree in Computer Science, Data Science, AI, or related quantitative field.

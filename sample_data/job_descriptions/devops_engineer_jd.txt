@@ -1,0 +1,21 @@
+Job Title: DevOps & Cloud Infrastructure Engineer
+Company: Apex Cloud Systems
+Location: Hyderabad, India
+
+Role Overview:
+Apex Cloud Systems is looking for a proactive DevOps Engineer to manage, automate, and scale our cloud infrastructure, CI/CD pipelines, and Kubernetes deployments.
+
+Key Responsibilities:
+- Design, deploy, and maintain multi-cloud infrastructure on AWS (EKS, EC2, RDS, IAM, VPC, Route53).
+- Implement Infrastructure as Code (IaC) using Terraform and Ansible.
+- Manage Docker containers and orchestrate microservices using Kubernetes (K8s) and Helm charts.
+- Build and optimize CI/CD pipelines with GitHub Actions, GitLab CI, and Jenkins.
+- Configure real-time system monitoring, alerting, and logging using Prometheus, Grafana, and ELK stack.
+- Enforce cloud security compliance, zero-trust architecture, and disaster recovery strategies.
+
+Required Skills & Qualifications:
+- 3+ years experience as a DevOps Engineer, Cloud Engineer, or SRE.
+- Strong proficiency with Linux/Unix system administration and Bash/Python scripting.
+- Deep hands-on experience with AWS, Docker, Kubernetes, and Terraform.
+- Solid understanding of networking (TCP/IP, DNS, SSL/TLS, VPNs) and CI/CD tools.
+- Bachelor's degree in Computer Science or equivalent technical certifications (AWS Solutions Architect, CKA).
